@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="GraphShape" Version="1.2.0" />
-    <PackageReference Include="MatBlazor" Version="2.9.0-develop-042" />
+    <PackageReference Include="GraphShape" Version="1.2.1" />
+    <PackageReference Include="MatBlazor" Version="2.10.0" />
   </ItemGroup>
 
   <ItemGroup>
